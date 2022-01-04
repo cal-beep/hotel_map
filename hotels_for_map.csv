@@ -1,0 +1,418 @@
+Name_of_Establishment,City,State,Zip Code,Rooms,rating_from_booking.com,number_of_reviews,lat,lon,Class
+Super 8 Aberdeen East,Aberdeen, SD ,57401,104,NA,NA,45.45982001,-98.45292561,Economy Class
+Holiday Inn Express & Suites Aberdeen,Aberdeen, SD ,57401,68,8.2,86 reviews,45.45803276,-98.44223765,Upper Midscale Class
+Super 8 Aberdeen West,Aberdeen, SD ,57401,39,NA,NA,45.45814776,-98.51720546,Economy Class
+Quality Inn Aberdeen,Aberdeen, SD ,57401,61,7.3,121 reviews,45.46001086,-98.44680354,Midscale Class
+AmericInn Lodge & Suites Aberdeen,Aberdeen, SD ,57401,88,8.2,145 reviews,45.46209285,-98.4383708,Midscale Class
+Best Western Ramkota Hotel,Aberdeen, SD ,57401,154,7.4,703 reviews,45.47496677,-98.50906023,Midscale Class
+White House Inn,Aberdeen, SD ,57401,96,NA,NA,45.45979743,-98.49586549,Economy Class
+Innkeeper Motel,Aberdeen, SD ,57401,25,NA,NA,45.45958981,-98.47109066,Economy Class
+Hampton Inn Aberdeen,Aberdeen, SD ,57401,84,NA,NA,45.45798152,-98.44289642,Upper Midscale Class
+TownePlace Suites Aberdeen,Aberdeen, SD ,57401,56,NA,NA,45.46055655,-98.44541088,Upper Midscale Class
+My Place Hotel Aberdeen,Aberdeen, SD ,57401,46,9.1,104 reviews,45.4604352,-98.45228129,Upper Midscale Class
+Sutton Bay Resort,Agar, SD ,57520,26,NA,NA,44.89031528,-100.3544579,Luxury Class
+Arlington Inn,Arlington, SD ,57212,21,NA,NA,44.35654395,-97.12965491,Economy Class
+AmericInn Lodge & Suites Belle Fourche,Belle Fourche, SD ,57717,61,9.5,123 reviews,44.65144624,-103.8618512,Midscale Class
+Kings Inn,Belle Fourche, SD ,57717,33,NA,NA,44.66206435,-103.8522284,Economy Class
+Econo Lodge Belle Fourche,Belle Fourche, SD ,57717,50,NA,NA,44.65746597,-103.8553369,Economy Class
+Super 8 Belle Fourche,Belle Fourche, SD ,57717,31,5.5,122 reviews,44.66279687,-103.8537727,Economy Class
+Crossroad's Motel,Beresford, SD ,57004,20,NA,NA,43.08325419,-96.79180848,Economy Class
+Super 8 Beresford,Beresford, SD ,57004,38,6.8,69 reviews,43.08412381,-96.79127835,Economy Class
+Residence Inn Rapid City,Box Elder, SD ,57719,144,NA,NA,44.09992919,-103.1477487,Upscale Class
+Home2 Suites by Hilton Rapid City,Box Elder, SD ,57719,107,8.4,315 reviews,44.10061489,-103.1460446,Upper Midscale Class
+Holiday Inn Express & Suites Sioux Falls Brandon,Brandon, SD ,57005,68,8.7,107 reviews,43.60738613,-96.57497522,Upper Midscale Class
+Quality Inn Brandon,Brandon, SD ,57005,48,7.6,106 reviews,43.60734305,-96.57311873,Midscale Class
+Sunset Motel,Britton, SD ,57430,20,NA,NA,45.7916037,-97.7586236,Economy Class
+My Place Hotel Brookings,Brookings, SD ,57006,62,8.8,77 reviews,44.3131675,-96.7524719,Upper Midscale Class
+Econo Lodge Inn & Suites Brookings,Brookings, SD ,57006,101,7.5,165 reviews,44.31211574,-96.76197833,Economy Class
+Quality Inn Brookings,Brookings, SD ,57006,50,7.8,102 reviews,44.31023485,-96.76395244,Midscale Class
+Super 8 Brookings,Brookings, SD ,57006,65,8.6,243 reviews,44.31026556,-96.75415701,Economy Class
+Comfort Suites University Brookings,Brookings, SD ,57006,100,9,183 reviews,44.31625371,-96.76342457,Upper Midscale Class
+Holiday Inn Express & Suites Brookings,Brookings, SD ,57006,62,7.3,38 reviews,44.30960616,-96.754814,Upper Midscale Class
+Days Inn Brookings,Brookings, SD ,57006,119,NA,NA,44.31084383,-96.76195524,Economy Class
+Country Inn & Suites Brookings ,Brookings, SD ,57006,75,8.3,241 reviews,44.3094318,-96.75569599,Upper Midscale Class
+Hampton Inn Brookings,Brookings, SD ,57006,87,9.1,55 reviews,44.31074532,-96.75546353,Upper Midscale Class
+Sonshine Inn,Brookings, SD ,57006,37,NA,NA,44.31157419,-96.8031881,Economy Class
+Tipperary Lodge,Buffalo, SD ,57720,20,NA,NA,45.58806579,-103.5470484,Economy Class
+U Bar & Suites,Canistota, SD ,57012,27,NA,NA,43.59431813,-97.29196654,Economy Class
+Ortman Hotel,Canistota, SD ,57012,27,NA,NA,43.5978707,-97.29160543,Economy Class
+A Bridge View Inn,Chamberlain, SD ,57325,29,NA,NA,43.81210263,-99.33326789,Economy Class
+RiverView Inn,Chamberlain, SD ,57325,29,NA,NA,43.79720846,-99.33606266,Economy Class
+Bel Aire Motel,Chamberlain, SD ,57325,35,NA,NA,43.80841392,-99.32859917,Economy Class
+Best Western Lee's Motor Inn,Chamberlain, SD ,57325,55,7.7,230 reviews,43.81092976,-99.33329507,Midscale Class
+Super 8 Chamberlain,Chamberlain, SD ,57325,54,NA,NA,43.79805237,-99.33731918,Economy Class
+AmericInn Lodge & Suites Chamberlain,Chamberlain, SD ,57325,69,8,235 reviews,43.773291,-99.31318338,Midscale Class
+Americas Best Value Inn & Suites Clear Lake,Clear Lake, SD ,57226,28,NA,NA,44.74856268,-96.68146714,Economy Class
+Sylvan Lake Lodge,Custer, SD ,57730,67,NA,NA,43.84618837,-103.5643601,Luxury Class
+Rock Crest Lodge & Cabins,Custer, SD ,57730,33,8.5,403 reviews,43.76447838,-103.6093117,Luxury Class
+Days Inn Custer,Custer, SD ,57730,48,6.5,228 reviews,43.7679687,-103.6008759,Economy Class
+Comfort Inn & Suites Custer,Custer, SD ,57730,83,8.5,322 reviews,43.76393848,-103.6136298,Upper Midscale Class
+Creekside Lodge,Custer, SD ,57730,30,NA,NA,43.76272757,-103.379436,Luxury Class
+Econo Lodge Custer,Custer, SD ,57730,45,7.7,158 reviews,43.76527748,-103.602014,Economy Class
+Best Western Buffalo Ridge Inn,Custer, SD ,57730,88,NA,NA,43.76283186,-103.6124637,Midscale Class
+Bavarian Inn,Custer, SD ,57730,64,NA,NA,43.77455536,-103.6084183,Luxury Class
+State Game Lodge,Custer, SD ,57730,100,NA,NA,43.76454493,-103.3811395,Luxury Class
+Chief Motel,Custer, SD ,57730,33,NA,NA,43.7645505,-103.6060156,Economy Class
+Holiday Inn Express & Suites Custer,Custer, SD ,57730,91,8.8,174 reviews,43.76360173,-103.6151857,Upper Midscale Class
+Legion Lake Lodge,Custer, SD ,57730,26,NA,NA,43.76186777,-103.4627663,Luxury Class
+Super 8 Custer Crazy Horse Area,Custer, SD ,57730,54,8.1,515 reviews,43.76342449,-103.6167612,Economy Class
+Rocket Motel,Custer, SD ,57730,27,NA,NA,43.76548978,-103.6044434,Economy Class
+Blue Bell Lodge & Resort,Custer, SD ,57730,29,NA,NA,43.71579089,-103.4840589,Luxury Class
+Country Inn & Suites Dakota Dunes,Dakota Dunes, SD ,57049,67,8.4,223 reviews,42.50520278,-96.49524813,Upper Midscale Class
+Holiday Inn Express & Suites Dakota Dunes Event Center,Dakota Dunes, SD ,57049,92,9.3,78 reviews,42.50677951,-96.48936763,Upper Midscale Class
+De Smet Super Deluxe Inn & Suites,De Smet, SD ,57231,37,NA,NA,44.38196147,-97.54604665,Midscale Class
+Cottage Inn Motel,De Smet, SD ,57231,35,NA,NA,44.3830384,-97.54923307,Economy Class
+Historic Bullock Hotel,Deadwood, SD ,57732,28,8.4,353 reviews,44.37783109,-103.7290934,Upper Upscale Class
+Holiday Inn Express & Suites Deadwood Gold Dust Casino,Deadwood, SD ,57732,78,NA,NA,44.37685897,-103.7298119,Upper Midscale Class
+Mineral Palace Hotel,Deadwood, SD ,57732,63,8.3,522 reviews,44.37827204,-103.7284714,Upscale Class
+Thunder Cove Inn,Deadwood, SD ,57732,34,NA,NA,44.36296803,-103.7381083,Economy Class
+The Lodge @ Deadwood,Deadwood, SD ,57732,140,9,928 reviews,44.39469918,-103.7155234,Upper Upscale Class
+Historic Franklin Hotel,Deadwood, SD ,57732,68,7.2,"1,255 reviews",44.37568195,-103.7313632,Upper Midscale Class
+The Hotel by Gold Dust,Deadwood, SD ,57732,42,8.3,561 reviews,44.37670502,-103.7299785,Upper Upscale Class
+Super 8 Deadwood,Deadwood, SD ,57732,51,8.2,408 reviews,44.36631875,-103.7335037,Economy Class
+Holiday Inn Resort Deadwood Mountain Grand,Deadwood, SD ,57732,98,NA,NA,44.37414765,-103.7305829,Upper Midscale Class
+Cedar Wood Inn,Deadwood, SD ,57732,23,9.2,417 reviews,44.36936361,-103.7307572,Midscale Class
+Comfort Inn & Suites Deadwood,Deadwood, SD ,57732,69,NA,NA,44.36493815,-103.7327635,Upper Midscale Class
+Deadwood Station Bunkhouse & Gambling Hall,Deadwood, SD ,57732,38,NA,NA,44.38834685,-103.7131165,Economy Class
+Deadwood Gulch Gaming Resort,Deadwood, SD ,57732,87,NA,NA,44.36476526,-103.7363588,Upscale Class
+Gold Country Inn,Deadwood, SD ,57732,53,NA,NA,44.37273218,-103.7347214,Economy Class
+Black Hills Inn & Suites,Deadwood, SD ,57732,47,NA,NA,44.35431318,-103.7378031,Economy Class
+Hickok House,Deadwood, SD ,57732,45,NA,NA,44.37631663,-103.730838,Upscale Class
+DoubleTree by Hilton Deadwood at Cadillac Jack's,Deadwood, SD ,57732,107,8.6,343 reviews,44.38520048,-103.7206986,Upscale Class
+Hampton Inn @ Tin Lizzie Gaming Resort,Deadwood, SD ,57732,59,NA,NA,44.37967682,-103.7255995,Upper Midscale Class
+Tru by Hilton Deadwood,Deadwood, SD ,57732,108,NA,NA,44.38459316,-103.721712,Midscale Class
+Springhill Suites Deadwood,Deadwood, SD ,57732,78,8.9,353 reviews,44.38566042,-103.7200033,Upscale Class
+First Gold Hotel,Deadwood, SD ,57732,37,NA,NA,44.38655828,-103.7179569,Midscale Class
+Travelodge Inn & Suites Deadwood,Deadwood, SD ,57732,162,8.1,635 reviews,44.38748071,-103.7163652,Economy Class
+Bilmar Inn & Suites,Dell Rapids, SD ,57022,32,NA,NA,43.82588796,-96.72166173,Economy Class
+Cheyenne River Motel,Eagle Butte, SD ,57625,40,NA,NA,45.00887228,-101.2364474,Economy Class
+Cowboy Inn,Edgemont, SD ,57735,32,NA,NA,43.30431059,-103.8299377,Economy Class
+Travelodge Edgemont,Edgemont, SD ,57735,56,NA,NA,43.30464632,-103.8312145,Economy Class
+HomeTown Inn,Elk Point, SD ,57025,18,NA,NA,42.69133858,-96.69471439,Economy Class
+Lakeview Motel,Eureka, SD ,57437,33,NA,NA,45.76691271,-99.62999863,Economy Class
+Prairie Vista Inn,Faith, SD ,57626,27,NA,NA,45.02295178,-102.0366577,Economy Class
+Faulkton Inn,Faulkton, SD ,57438,20,NA,NA,45.03516329,-99.12306659,Economy Class
+Royal River Casino Motel,Flandreau, SD ,57028,120,NA,NA,44.04184369,-96.60619527,Economy Class
+My Place Hotel Fort Pierre,Fort Pierre, SD ,57532,46,8.6,121 reviews,44.36755383,-100.3762557,Upper Midscale Class
+Fort Pierre Motel,Fort Pierre, SD ,57532,29,NA,NA,44.35189048,-100.3737001,Economy Class
+Holiday Inn Express & Suites Fort Pierre,Fort Pierre, SD ,57532,83,7.7,46 reviews,44.36621529,-100.3784737,Upper Midscale Class
+AmericInn Lodge & Suites Pierre Fort Pierre Conference Center,Fort Pierre, SD ,57532,67,8.5,54 reviews,44.36694392,-100.3723261,Midscale Class
+Lode Star Casino Motel,Fort Thompson, SD ,57339,49,NA,NA,44.06949431,-99.43872202,Economy Class
+Freeman Country Inn,Freeman, SD ,57029,27,NA,NA,43.34396388,-97.42122337,Economy Class
+Buffalo Ridge Resort Herrick Hotel,Gary, SD ,57237,19,NA,NA,44.79565057,-96.45548892,Midscale Class
+Gettysburg Inn & Suites,Gettysburg, SD ,57442,35,8.9,51 reviews,45.01491208,-99.94596836,Midscale Class
+Trail Motel,Gettysburg, SD ,57442,22,NA,NA,45.01386009,-99.9538484,Economy Class
+Parkside Motel,Gregory, SD ,57533,21,NA,NA,43.23831226,-99.43555799,Economy Class
+AmericInn Hotel & Suites Hartford,Hartford, SD ,57033,47,9,188 reviews,43.61053087,-96.94910531,Midscale Class
+Holiday Inn Express & Suites Hill City Mount Rushmore,Hill City, SD ,57745,60,8.6,260 reviews,43.93393116,-103.5702676,Upper Midscale Class
+Quality Inn Near Mount Rushmore,Hill City, SD ,57745,55,8.6,498 reviews,43.92644606,-103.5764472,Midscale Class
+Lantern Inn,Hill City, SD ,57745,19,NA,NA,43.93555695,-103.5672728,Economy Class
+The Lodge at Palmer Gulch,Hill City, SD ,57745,62,8.5,305 reviews,43.90159752,-103.537738,Midscale Class
+Best Western Golden Spike Inn & Suites,Hill City, SD ,57745,107,NA,NA,43.93480638,-103.5658259,Midscale Class
+Comfort Inn & Suites Near Mount Rushmore Hill City,Hill City, SD ,57745,88,NA,NA,43.93292854,-103.5674888,Upper Midscale Class
+Super 8 Hill City Mount Rushmore Area,Hill City, SD ,57745,57,6.9,277 reviews,43.93368295,-103.5762,Economy Class
+Crooked Creek Resort,Hill City, SD ,57745,32,NA,NA,43.89926325,-103.5920657,Economy Class
+Hills Inn,Hot Springs, SD ,57747,35,8.7,430 reviews,43.42558149,-103.4702179,Economy Class
+Dollar Inn,Hot Springs, SD ,57747,28,NA,NA,43.44091326,-103.4753181,Economy Class
+Econo Lodge Hot Springs,Hot Springs, SD ,57747,50,6.1,160 reviews,43.42123581,-103.4664324,Economy Class
+USA Stay Hotel & Suites,Hot Springs, SD ,57747,85,7.9,421 reviews,43.42047634,-103.4792356,Economy Class
+Americas Best Value Inn by the River Hot Springs,Hot Springs, SD ,57747,31,NA,NA,43.43583479,-103.4819323,Economy Class
+Skyline Motel,Hot Springs, SD ,57747,22,NA,NA,43.44151429,-103.4746054,Economy Class
+Super 8 Hot Springs,Hot Springs, SD ,57747,48,NA,NA,43.42337076,-103.4821231,Economy Class
+Baymont Inn & Suites Hot Springs,Hot Springs, SD ,57747,51,7.3,416 reviews,43.42498962,-103.4688559,Midscale Class
+WaterCrest Hotel & Conference Center,Howard, SD ,57349,24,7.4,15 reviews,44.01096011,-97.52703217,Midscale Class
+Crossroads Hotel,Huron, SD ,57350,100,8,153 reviews,44.36145556,-98.21597959,Upper Midscale Class
+Super 8 Huron,Huron, SD ,57350,67,6.5,51 reviews,44.34050933,-98.21486601,Economy Class
+Traveler Motel,Huron, SD ,57350,18,NA,NA,44.36920674,-98.23508173,Economy Class
+Quality Inn Huron,Huron, SD ,57350,60,7.6,73 reviews,44.4966206,-98.28562731,Midscale Class
+Dakota Inn,Huron, SD ,57350,71,7.1,23 reviews,44.36936984,-98.19988866,Economy Class
+Best Western Of Huron,Huron, SD ,57350,52,7.5,51 reviews,44.34273418,-98.21331961,Midscale Class
+Cedar Pass Lodge,Interior, SD ,57750,23,NA,NA,43.74782303,-101.9452834,Midscale Class
+Budget Host Badlands Motel,Interior, SD ,57750,21,NA,NA,43.72897718,-101.9788957,Economy Class
+Badlands Inn,Interior, SD ,57750,18,NA,NA,43.73847239,-101.9620056,Economy Class
+Americas Best Value Inn Kadoka,Kadoka, SD ,57543,30,NA,NA,43.83914253,-101.5246616,Economy Class
+Lakota Lodge,Kadoka, SD ,57543,34,6.6,173 reviews,43.84298377,-101.5232668,Midscale Class
+Budget Host Sundowner Motor Inn,Kadoka, SD ,57543,40,NA,NA,43.83712223,-101.5219662,Economy Class
+West Motel,Kadoka, SD ,57543,16,NA,NA,43.83808184,-101.514338,Economy Class
+Kadoka Inn,Kadoka, SD ,57543,39,NA,NA,NA, NA,Economy Class
+Budget Host Kennebec,Kennebec, SD ,57544,16,NA,NA,43.8976643,-99.86443792,Economy Class
+Baymont Inn & Suites Keystone Near Mt Rushmore,Keystone, SD ,57751,154,7.2,"1,611 reviews",43.89441893,-103.4241736,Midscale Class
+Super 8 Keystone Highway 16A,Keystone, SD ,57751,42,7.4,195 reviews,43.88729971,-103.4270953,Economy Class
+Quality Inn Keystone,Keystone, SD ,57751,56,7.6,358 reviews,43.89196041,-103.4271838,Midscale Class
+Holiday Inn Express & Suites Mt Rushmore Keystone,Keystone, SD ,57751,62,8.4,213 reviews,NA, NA,Upper Midscale Class
+Rodeway Inn Near Mount Rushmore Memorial Keystone,Keystone, SD ,57751,37,5,303 reviews,43.90165071,-103.4132365,Economy Class
+Rushmore View Inn,Keystone, SD ,57751,31,NA,NA,43.88900798,-103.4243897,Midscale Class
+Powder House Lodge,Keystone, SD ,57751,37,NA,NA,43.90770441,-103.4371616,Midscale Class
+Keystone Boardwalk Inn,Keystone, SD ,57751,33,NA,NA,43.89164187,-103.4261583,Midscale Class
+The Lodge @ Mount Rushmore,Keystone, SD ,57751,50,NA,NA,NA, NA,Upper Midscale Class
+Rushmore Express Inn & Family Suites,Keystone, SD ,57751,88,NA,NA,43.88723757,-103.424376,Upper Midscale Class
+Ramada Keystone Near Mt Rushmore,Keystone, SD ,57751,90,7.6,990 reviews,43.89305673,-103.4244597,Midscale Class
+The Magnuson Grand Rushmore View & RV Park,Keystone, SD ,57751,43,7.3,317 reviews,43.88896881,-103.4244373,Upper Midscale Class
+Brookside Motel,Keystone, SD ,57751,27,NA,NA,43.89376368,-103.4181918,Economy Class
+Ascend Collection K Bar S Lodge,Keystone, SD ,57751,96,NA,NA,43.89667891,-103.4347898,Upscale Class
+Roosevelt Inn,Keystone, SD ,57751,40,8.3,"1,239 reviews",43.88768434,-103.4252867,Upscale Class
+Dakota Winds Motel,Kimball, SD ,57355,26,NA,NA,43.74032104,-98.95743981,Economy Class
+Regency Inn & Suites,Kimball, SD ,57355,18,NA,NA,43.74038743,-98.95998286,Economy Class
+Lakota Prairie Ranch Resort,Kyle, SD ,57752,20,NA,NA,43.36952217,-102.2440412,Economy Class
+Golden Hills Resort,Lead, SD ,57754,96,NA,NA,NA, NA,Midscale Class
+Recreational Springs Resort,Lead, SD ,57754,24,NA,NA,44.29960066,-103.8085593,Midscale Class
+Ponderosa Motor Lodge,Lead, SD ,57754,16,NA,NA,44.35702395,-103.7797633,Upper Midscale Class
+Blackstone Lodge,Lead, SD ,57754,71,8.5,859 reviews,44.35458322,-103.7790046,Midscale Class
+Spearfish Canyon Resort,Lead, SD ,57754,55,NA,NA,44.35202313,-103.931603,Upscale Class
+Lemmon Country Inn,Lemmon, SD ,57638,30,NA,NA,45.93443903,-102.1340089,Economy Class
+Golden Buffalo Casino & Resort,Lower Brule, SD ,57548,38,NA,NA,44.07162445,-99.57815593,Economy Class
+AmericInn Lodge & Suites Madison,Madison, SD ,57042,38,8.4,97 reviews,43.99362738,-97.10741297,Midscale Class
+US 34 Motel,Madison, SD ,57042,37,NA,NA,44.00741936,-97.13599681,Economy Class
+Super 8 Madison,Madison, SD ,57042,34,7.4,51 reviews,44.00661378,-97.12995437,Economy Class
+Crossroads Annex,Martin, SD ,57551,26,NA,NA,43.17197717,-101.731335,Economy Class
+Crossroads Inn,Martin, SD ,57551,34,NA,NA,43.17197717,-101.731335,Economy Class
+Super 8 Milbank,Milbank, SD ,57252,39,7.4,25 reviews,45.22435131,-96.61842843,Economy Class
+GrandStay Hotel & Suites Milbank,Milbank, SD ,57252,46,NA,NA,45.21222538,-96.63989534,Upper Midscale Class
+Manor Motel,Milbank, SD ,57252,30,NA,NA,45.22237918,-96.62094592,Economy Class
+Lantern Motel,Milbank, SD ,57252,29,NA,NA,45.21152873,-96.64138057,Economy Class
+Dew Drop Inn Motel,Miller, SD ,57362,17,NA,NA,44.53124352,-98.99144219,Economy Class
+Super 8 Miller,Miller, SD ,57362,21,6.1,38 reviews,44.52950491,-98.99035143,Economy Class
+Quality Inn Rosebud Casino,Mission, SD ,57555,60,NA,NA,42.99917906,-100.5760119,Midscale Class
+Rodeway Inn Mitchell ,Mitchell, SD ,57301,44,NA,NA,43.69707951,-98.04742017,Economy Class
+Budget Inn,Mitchell, SD ,57301,27,NA,NA,43.70232938,-98.04517584,Economy Class
+Quality Inn Mitchell,Mitchell, SD ,57301,59,7.4,297 reviews,43.69847028,-98.01910065,Midscale Class
+Kelly Inn & Suites,Mitchell, SD ,57301,78,7.9,950 reviews,43.68969011,-98.0115971,Upper Midscale Class
+AmericInn Mitchell,Mitchell, SD ,57301,52,7.8,164 reviews,43.69583966,-98.01703812,Midscale Class
+Comfort Inn & Suites Mitchell,Mitchell, SD ,57301,72,NA,NA,43.68993122,-98.00714136,Upper Midscale Class
+Super 8 Mitchell,Mitchell, SD ,57301,105,NA,NA,43.69400645,-98.0112706,Economy Class
+Days Inn Mitchell,Mitchell, SD ,57301,68,NA,NA,43.69572336,-98.01394727,Economy Class
+Siesta Motel,Mitchell, SD ,57301,22,NA,NA,43.70275593,-98.04066553,Economy Class
+Motel 6 Mitchell,Mitchell, SD ,57301,92,6.6,328 reviews,43.69746598,-98.04745167,Economy Class
+Thunderbird Lodge,Mitchell, SD ,57301,48,NA,NA,43.69475242,-98.01624344,Economy Class
+Holiday Inn Express & Suites Mitchell,Mitchell, SD ,57301,82,8.9,172 reviews,43.68822625,-98.01383005,Upper Midscale Class
+Ramada Mitchell Hotel & Conference Center,Mitchell, SD ,57301,122,6.6,704 reviews,43.70125453,-98.04567683,Midscale Class
+Coach Light,Mitchell, SD ,57301,20,NA,NA,43.70242322,-98.03800637,Economy Class
+Hampton Inn Mitchell,Mitchell, SD ,57301,75,9.4,16 reviews,43.69109241,-98.00805333,Upper Midscale Class
+Corn Palace Motel,Mitchell, SD ,57301,36,NA,NA,43.69590599,-98.01761189,Economy Class
+Corn Palace Inn,Mitchell, SD ,57301,77,NA,NA,43.70022926,-98.01895963,Midscale Class
+Mo Rest Motel,Mobridge, SD ,57601,27,NA,NA,45.53788092,-100.4427699,Economy Class
+Mobridge Kountry Inn,Mobridge, SD ,57601,30,NA,NA,45.54573197,-100.4520757,Economy Class
+Wrangler Inn,Mobridge, SD ,57601,60,7.8,48 reviews,45.53813059,-100.4442679,Upper Midscale Class
+Range Country Lodging,Murdo, SD ,57559,41,NA,NA,43.88732908,-100.7167704,Economy Class
+Best Western Graham's,Murdo, SD ,57559,45,NA,NA,43.88611958,-100.7161537,Midscale Class
+Super 8 Murdo,Murdo, SD ,57559,52,NA,NA,43.88474451,-100.7063833,Economy Class
+Anchor Inn,Murdo, SD ,57559,29,NA,NA,43.88646357,-100.7123151,Economy Class
+American Inn Express,Murdo, SD ,57559,21,NA,NA,43.88634167,-100.7093915,Economy Class
+LandMark Country Inn,Murdo, SD ,57559,20,NA,NA,43.87639211,-100.708279,Economy Class
+Sioux Motel,Murdo, SD ,57559,24,NA,NA,43.88683743,-100.7102442,Economy Class
+Days Inn North Sioux City,North Sioux City, SD ,57049,49,NA,NA,42.52571502,-96.50094633,Economy Class
+Super 8 North Sioux City ,North Sioux City, SD ,57049,44,NA,NA,42.52525261,-96.50264229,Economy Class
+Hampton Inn North Sioux City,North Sioux City, SD ,57049,65,8.4,136 reviews,42.52416687,-96.50239617,Upper Midscale Class
+Red Carpet Inn & Suites North Sioux City,North Sioux City, SD ,57049,33,6.4,93 reviews,42.5255085,-96.50201289,Economy Class
+Baymont Inn & Suites Oacoma,Oacoma, SD ,57365,53,NA,NA,43.80340625,-99.3803996,Midscale Class
+Econo Lodge Oacoma,Oacoma, SD ,57365,43,6.9,201 reviews,43.80309834,-99.39032842,Economy Class
+Quality Inn Oacoma,Oacoma, SD ,57365,50,7.7,124 reviews,43.80318482,-99.39596523,Midscale Class
+Howard Johnson Inn & Suites Oacoma,Oacoma, SD ,57365,50,8,608 reviews,43.80219202,-99.39283987,Economy Class
+Cedar Shore Resort,Oacoma, SD ,57365,99,NA,NA,43.82930611,-99.34295967,Upscale Class
+Dakota Horizinn,Parkston, SD ,57366,44,NA,NA,43.39596314,-97.99686662,Economy Class
+Motel West,Philip, SD ,57567,20,NA,NA,44.04462811,-101.6600048,Economy Class
+Fort Randall Casino & Hotel,Pickstown, SD ,57367,57,NA,NA,43.08306342,-98.47557706,Economy Class
+Fort Randall Inn,Pickstown, SD ,57367,17,NA,NA,43.06874079,-98.53851266,Economy Class
+Dakota Inn,Pickstown, SD ,57367,25,7.1,23 reviews,43.07060652,-98.53025267,Economy Class
+Elk Creek Resort & Lodge,Piedmont, SD ,57769,22,NA,NA,44.22728151,-103.3546224,Economy Class
+Clubhouse Inn Hotel & Suites Pierre,Pierre, SD ,57501,79,8.2,77 reviews,44.37253578,-100.3628918,Upper Upscale Class
+Baymont Inn & Suites Pierre,Pierre, SD ,57501,47,NA,NA,44.37115533,-100.3623017,Midscale Class
+Econo Lodge Pierre,Pierre, SD ,57501,56,NA,NA,44.36647766,-100.3519392,Economy Class
+Pierre Inn & Suites,Pierre, SD ,57501,52,NA,NA,44.36900099,-100.3544926,Economy Class
+Quality Inn Pierre,Pierre, SD ,57501,58,7.1,242 reviews,44.36954255,-100.358042,Midscale Class
+Capitol Inn & Suites,Pierre, SD ,57501,142,NA,NA,44.36247208,-100.3408186,Economy Class
+Governor's Inn,Pierre, SD ,57501,82,7.9,275 reviews,44.37150237,-100.3614928,Economy Class
+Ramkota Hotel & Conference Center,Pierre, SD ,57501,151,7.3,92 reviews,44.37312054,-100.3642287,Upper Midscale Class
+Days Inn Pierre,Pierre, SD ,57501,75,6.5,86 reviews,44.37075078,-100.35939,Economy Class
+Terrace Motel,Pierre, SD ,57501,46,NA,NA,44.3701398,-100.349194,Economy Class
+Super 8 Pierre,Pierre, SD ,57501,74,NA,NA,44.36912092,-100.3571425,Economy Class
+Prairie Wind Casino & Hotel,Pine Ridge, SD ,57770,78,NA,NA,43.16211783,-102.9438525,Midscale Class
+Rodeway Inn Plankinton,Plankinton, SD ,57368,33,NA,NA,43.70680181,-98.48680527,Economy Class
+Dakota Country Inn,Platte, SD ,57369,30,8.9,30 reviews,43.38506993,-98.83288616,Economy Class
+King's Inn,Platte, SD ,57369,46,NA,NA,43.38469152,-98.84072646,Economy Class
+Hutchs Motel,Presho, SD ,57568,28,NA,NA,43.9024728,-100.053649,Economy Class
+GrandStay Residential Suites Rapid City,Rapid City, SD ,57701,53,7.9,615 reviews,44.10820259,-103.225693,Upper Midscale Class
+Holiday Inn Rapid City Rushmore Plaza,Rapid City, SD ,57701,205,NA,NA,44.08761345,-103.2230756,Upper Midscale Class
+Tru by Hilton Rapid City Rushmore,Rapid City, SD ,57701,98,NA,NA,44.100136,-103.1986253,Midscale Class
+MainStay Suites Rapid City,Rapid City, SD ,57701,97,8.1,129 reviews,44.1005864,-103.1610789,Midscale Class
+Cambria hotel & suites Rapid City Near Mount Rushmore,Rapid City, SD ,57701,111,NA,NA,44.10037509,-103.1599502,Upscale Class
+Hampton Inn Rapid City,Rapid City, SD ,57701,82,8,91 reviews,44.10230768,-103.2004618,Upper Midscale Class
+Comfort Inn & Suites Rapid City,Rapid City, SD ,57701,82,7.9,480 reviews,44.05792784,-103.2340985,Upper Midscale Class
+My Place Hotel Rapid City,Rapid City, SD ,57701,64,NA,NA,44.10155544,-103.1546699,Upper Midscale Class
+Staybridge Suites Rapid City Rushmore,Rapid City, SD ,57701,102,NA,NA,44.0979544,-103.1950657,Upscale Class
+Hampton Inn & Suites Rapid City Rushmore,Rapid City, SD ,57701,121,NA,NA,44.09988018,-103.1981034,Upper Midscale Class
+Howard Johnson Rapid City,Rapid City, SD ,57701,98,NA,NA,44.09023634,-103.2305955,Economy Class
+Hilton Garden Inn Rapid City,Rapid City, SD ,57701,120,8.8,110 reviews,44.10703255,-103.1978618,Upscale Class
+Foothills Inn,Rapid City, SD ,57701,64,NA,NA,44.1011385,-103.2036407,Midscale Class
+South Dakota Rose Inn,Rapid City, SD ,57701,65,NA,NA,44.08460271,-103.2132799,Economy Class
+Time Inn Motel,Rapid City, SD ,57701,59,NA,NA,44.08728865,-103.2014106,Economy Class
+Rodeway Inn Rapid City,Rapid City, SD ,57701,37,5.4,147 reviews,44.09857557,-103.2020794,Economy Class
+"Hotel Alex Johnson Rapid City, Curio Collection by Hilton",Rapid City, SD ,57701,143,8.4,423 reviews,44.08044661,-103.2274989,Upper Upscale Class
+Budget Inn Motel,Rapid City, SD ,57701,26,NA,NA,44.08813786,-103.2014483,Economy Class
+Price Motel,Rapid City, SD ,57701,27,NA,NA,44.0870706,-103.2053239,Economy Class
+Fair Value Inn,Rapid City, SD ,57701,27,NA,NA,44.10086699,-103.202944,Economy Class
+Big Sky Lodge,Rapid City, SD ,57701,31,NA,NA,44.04498357,-103.2452524,Economy Class
+Gold Star Motel,Rapid City, SD ,57701,26,NA,NA,44.08714031,-103.1981001,Economy Class
+Thrifty Motor Inn,Rapid City, SD ,57701,26,NA,NA,44.09794169,-103.2023253,Economy Class
+Econo Lodge Rapid City,Rapid City, SD ,57701,117,NA,NA,44.10574968,-103.2015865,Economy Class
+Quality Inn & Suites I 90 Rapid City,Rapid City, SD ,57701,97,NA,NA,44.10008371,-103.2007248,Midscale Class
+Town House Motel,Rapid City, SD ,57701,40,NA,NA,44.07904677,-103.2203244,Economy Class
+Motel 6 Rapid City,Rapid City, SD ,57701,149,NA,NA,44.10353543,-103.2006885,Economy Class
+The Grand Gateway Hotel,Rapid City, SD ,57701,133,NA,NA,44.10215109,-103.2043233,Upper Midscale Class
+Ramada Rapid City,Rapid City, SD ,57701,209,NA,NA,44.10384837,-103.2037442,Midscale Class
+Travelodge Rapid City,Rapid City, SD ,57701,99,NA,NA,44.06090896,-103.2336502,Economy Class
+Best Western Ramkota Hotel,Rapid City, SD ,57701,267,7.4,703 reviews,44.10554868,-103.2049582,Midscale Class
+Super 8 Rapid City Lacrosse Street,Rapid City, SD ,57701,118,NA,NA,44.10602971,-103.2024002,Economy Class
+BW Premier Collection The Rushmore Hotel & Suites,Rapid City, SD ,57701,177,NA,NA,44.08210214,-103.2310456,Upscale Class
+Americas Best Value Inn Rapid City,Rapid City, SD ,57701,95,NA,NA,44.10563965,-103.2237611,Economy Class
+Microtel Inn & Suites by Wyndham Rapid City,Rapid City, SD ,57701,73,7.2,"1,276 reviews",44.10253661,-103.2012893,Economy Class
+Super 8 Rapid City Rushmore Road,Rapid City, SD ,57701,98,NA,NA,44.06109993,-103.2306921,Economy Class
+Days Inn Rapid City,Rapid City, SD ,57701,76,NA,NA,44.08012682,-103.2503369,Economy Class
+Avanti Motel,Rapid City, SD ,57701,36,NA,NA,44.08333289,-103.2114246,Economy Class
+Holiday Inn Express & Suites Rapid City I 90,Rapid City, SD ,57701,102,NA,NA,44.10599493,-103.2005467,Upper Midscale Class
+Lazy U Motel,Rapid City, SD ,57701,25,NA,NA,44.06376853,-103.2326847,Economy Class
+Quality Inn Rapid City,Rapid City, SD ,57701,63,NA,NA,44.05996632,-103.2315904,Midscale Class
+AmericInn Lodge & Suites Rapid City,Rapid City, SD ,57701,96,NA,NA,44.10160145,-103.2013323,Midscale Class
+Country Inn & Suites Rapid City,Rapid City, SD ,57701,103,NA,NA,44.10825617,-103.2031865,Upper Midscale Class
+Motel Rapid,Rapid City, SD ,57702,34,NA,NA,NA, NA,Economy Class
+Happy Holiday Motel,Rapid City, SD ,57702,31,NA,NA,43.98919414,-103.2699073,Midscale Class
+Canyon Lake Resort ,Rapid City, SD ,57702,22,NA,NA,44.05815889,-103.2941499,Economy Class
+Family Inn,Rapid City, SD ,57702,28,NA,NA,44.08802495,-103.2818991,Economy Class
+Holiday Inn Express & Suites Rapid City Rushmore South,Rapid City, SD ,57702,99,NA,NA,44.01677618,-103.2464269,Upper Midscale Class
+Days Inn West Rapid City,Rapid City, SD ,57702,54,NA,NA,44.07962997,-103.2499379,Economy Class
+Comfort Suites Rapid City,Rapid City, SD ,57703,92,NA,NA,44.0978605,-103.1535732,Upper Midscale Class
+Sleep Inn & Suites Rapid City,Rapid City, SD ,57703,80,8.4,621 reviews,44.0959387,-103.1498791,Midscale Class
+Baymont Inn & Suites Rapid City,Rapid City, SD ,57703,91,NA,NA,44.09677092,-103.1487341,Midscale Class
+La Quinta Inns & Suites Rapid City,Rapid City, SD ,57703,117,NA,NA,44.09917628,-103.148317,Upper Midscale Class
+Fairfield Inn & Suites Rapid City,Rapid City, SD ,57703,141,8.5,313 reviews,44.09842409,-103.1489474,Upper Midscale Class
+Best Western Plus Rapid City Rushmore,Rapid City, SD ,57703,97,9.2,546 reviews,44.0952321,-103.1547185,Upper Midscale Class
+Wilson Motor Inn,Redfield, SD ,57469,24,NA,NA,44.87609138,-98.49970404,Economy Class
+Super 8 Redfield,Redfield, SD ,57469,27,NA,NA,44.87405761,-98.52547067,Economy Class
+Selby Motel,Selby, SD ,57472,34,NA,NA,45.50781286,-100.0389141,Economy Class
+Super 8 Sioux Falls I 229 East,Sioux Falls, SD ,57103,56,NA,NA,43.54712183,-96.69306282,Economy Class
+Hilton Garden Inn Sioux Falls Downtown,Sioux Falls, SD ,57103,136,8.5,149 reviews,43.54802616,-96.72467306,Upscale Class
+Harvey Rushmore Motel,Sioux Falls, SD ,57103,32,NA,NA,43.54702577,-96.69476913,Economy Class
+Country Inn & Suites Sioux Falls,Sioux Falls, SD ,57103,71,NA,NA,43.54733307,-96.72833472,Upper Midscale Class
+WoodSpring Suites Sioux Falls,Sioux Falls, SD ,57104,124,6.4,51 reviews,43.53899039,-96.77861278,Economy Class
+AGP Studios,Sioux Falls, SD ,57104,88,NA,NA,43.56465864,-96.74698269,Economy Class
+Arena Motel,Sioux Falls, SD ,57104,26,NA,NA,43.56377778,-96.75895053,Economy Class
+Super 8 Airport I 90,Sioux Falls, SD ,57104,54,NA,NA,43.60010944,-96.71092425,Economy Class
+Days Inn Sioux Falls Airport,Sioux Falls, SD ,57104,87,NA,NA,43.60232414,-96.71205951,Economy Class
+Econo Lodge Sioux Falls Near Airport,Sioux Falls, SD ,57104,81,NA,NA,43.60327198,-96.71029998,Economy Class
+America Budget Lodge,Sioux Falls, SD ,57104,98,NA,NA,NA, NA,Economy Class
+Cloud 9 Motel,Sioux Falls, SD ,57104,56,NA,NA,43.60092124,-96.71061253,Economy Class
+Nites Inn,Sioux Falls, SD ,57104,53,NA,NA,43.54382706,-96.7434619,Economy Class
+Sleep Inn Airport Sioux Falls,Sioux Falls, SD ,57104,64,7.6,263 reviews,43.56319485,-96.76059554,Midscale Class
+Sheraton Hotel & Convention Center Sioux Falls,Sioux Falls, SD ,57104,243,NA,NA,43.56260678,-96.74826209,Upper Upscale Class
+Holiday Inn & Suites Sioux Falls Airport,Sioux Falls, SD ,57104,116,NA,NA,43.5652817,-96.75553326,Upper Midscale Class
+Happy Rest Motel,Sioux Falls, SD ,57104,18,NA,NA,43.5807808,-96.71170843,Economy Class
+Hotel On Phillips,Sioux Falls, SD ,57104,90,NA,NA,43.54747658,-96.72664133,Midscale Class
+Holiday Inn Sioux Falls City Centre,Sioux Falls, SD ,57104,290,NA,NA,43.54945178,-96.72755764,Upper Midscale Class
+AeroStay Hotel,Sioux Falls, SD ,57104,76,NA,NA,43.58120866,-96.731919,Upper Midscale Class
+Ramada Sioux Falls Airport Hotel & Suites,Sioux Falls, SD ,57104,150,NA,NA,43.56247438,-96.74618074,Midscale Class
+Valley Inn,Sioux Falls, SD ,57105,63,NA,NA,43.53651178,-96.74035024,Economy Class
+Home2 Suites by Hilton Sioux Falls Sanford Medical Center,Sioux Falls, SD ,57105,80,9,169 reviews,43.53557695,-96.74058473,Upper Midscale Class
+Center Inn,Sioux Falls, SD ,57105,59,NA,NA,43.53526883,-96.71447216,Economy Class
+Microtel Inn & Suites by Wyndham Sioux Falls,Sioux Falls, SD ,57106,68,7,"1,543 reviews",43.51838966,-96.77934922,Economy Class
+Candlewood Suites Sioux Falls,Sioux Falls, SD ,57106,80,NA,NA,43.51977918,-96.77919327,Midscale Class
+Red Roof Inn Sioux Falls,Sioux Falls, SD ,57106,97,NA,NA,43.51322739,-96.78265556,Economy Class
+Days Inn Sioux Falls Empire,Sioux Falls, SD ,57106,79,NA,NA,43.51418602,-96.78476473,Economy Class
+Super 8 Sioux Falls 41st Street,Sioux Falls, SD ,57106,91,NA,NA,43.51512244,-96.77633179,Economy Class
+Comfort Suites Sioux Falls,Sioux Falls, SD ,57106,60,NA,NA,43.516274,-96.7782396,Upper Midscale Class
+Ramada Sioux Falls,Sioux Falls, SD ,57106,66,NA,NA,43.54358664,-96.77566497,Midscale Class
+Holiday Inn Express & Suites Sioux Falls @ Empire Mall,Sioux Falls, SD ,57106,117,NA,NA,43.52319366,-96.77770789,Upper Midscale Class
+Hampton Inn Sioux Falls,Sioux Falls, SD ,57106,98,8.7,44 reviews,43.52365264,-96.77907045,Upper Midscale Class
+Clubhouse Inn Hotel & Suites Sioux Falls,Sioux Falls, SD ,57106,100,NA,NA,43.52620265,-96.77362327,Upper Upscale Class
+Staybridge Suites Sioux Falls At Empire Mall,Sioux Falls, SD ,57106,90,NA,NA,43.5229674,-96.77898807,Upscale Class
+Springhill Suites Sioux Falls,Sioux Falls, SD ,57106,84,NA,NA,43.51387962,-96.77869922,Upscale Class
+Courtyard Sioux Falls,Sioux Falls, SD ,57106,102,NA,NA,43.51352771,-96.77873207,Upscale Class
+Fairfield Inn & Suites Sioux Falls,Sioux Falls, SD ,57106,60,8.9,165 reviews,43.50912563,-96.78149063,Upper Midscale Class
+La Quinta Inns & Suites Sioux Falls,Sioux Falls, SD ,57106,89,NA,NA,43.51426608,-96.78308151,Upper Midscale Class
+Best Western Empire Towers,Sioux Falls, SD ,57106,62,NA,NA,43.51616066,-96.77631281,Midscale Class
+AmericInn  Hotel & Suites Sioux Falls,Sioux Falls, SD ,57106,64,NA,NA,43.5127478,-96.78252619,Midscale Class
+Baymont inn & Suites Sioux Falls,Sioux Falls, SD ,57106,77,NA,NA,43.51634728,-96.78286953,Midscale Class
+My Place Hotel Sioux Falls,Sioux Falls, SD ,57106,63,NA,NA,43.5178582,-96.77894365,Upper Midscale Class
+Westwick Motel,Sioux Falls, SD ,57106,24,NA,NA,43.5434723,-96.79759302,Economy Class
+Red Rock Inn,Sioux Falls, SD ,57106,83,NA,NA,43.51537738,-96.77815897,Economy Class
+Quality Inn & Suites South Sioux Falls,Sioux Falls, SD ,57106,65,NA,NA,43.5160443,-96.77788846,Midscale Class
+Residence Inn Sioux Falls,Sioux Falls, SD ,57106,66,8.5,33 reviews,43.5083008,-96.78070755,Upscale Class
+TownePlace Suites Sioux Falls,Sioux Falls, SD ,57106,67,8.3,31 reviews,43.52872204,-96.78341129,Upper Midscale Class
+Dakotah Lodge,Sioux Falls, SD ,57107,102,NA,NA,43.55647265,-96.76628199,Midscale Class
+Fairfield Inn & Suites Sioux Falls Airport,Sioux Falls, SD ,57107,82,NA,NA,43.59087987,-96.75678004,Upper Midscale Class
+Motel 6 Sioux Falls,Sioux Falls, SD ,57107,87,NA,NA,43.5681352,-96.77002973,Economy Class
+Best Western Plus Ramkota Hotel,Sioux Falls, SD ,57107,225,7.4,299 reviews,43.57392814,-96.7698046,Upper Midscale Class
+Baymont Sioux Falls West,Sioux Falls, SD ,57107,43,NA,NA,43.57033892,-96.77136823,Midscale Class
+AmericInn Sioux Falls North,Sioux Falls, SD ,57107,78,NA,NA,43.57147964,-96.77085322,Midscale Class
+Quality Inn & Suites Airport North Sioux Falls,Sioux Falls, SD ,57107,93,NA,NA,43.60674152,-96.76792273,Midscale Class
+Comfort Inn & Suites Sioux Falls,Sioux Falls, SD ,57108,77,NA,NA,43.49085233,-96.7713863,Upper Midscale Class
+Hilton Garden Inn Sioux Falls South,Sioux Falls, SD ,57108,103,8.5,146 reviews,43.49684946,-96.77222375,Upscale Class
+Holiday Inn Express & Suites Sioux Falls Southwest,Sioux Falls, SD ,57108,92,NA,NA,43.49135695,-96.77276754,Upper Midscale Class
+TownePlace Suites Sioux Falls South,Sioux Falls, SD ,57108,92,NA,NA,43.48701102,-96.76924923,Upper Midscale Class
+Homewood Suites by Hilton Sioux Falls,Sioux Falls, SD ,57108,95,8.1,114 reviews,43.49157798,-96.76864507,Upscale Class
+Hampton Inn & Suites Sioux Falls Southwest,Sioux Falls, SD ,57108,93,NA,NA,43.49054695,-96.77059829,Upper Midscale Class
+Super 8 Sisseton,Sisseton, SD ,57262,37,NA,NA,45.65966796,-97.02265676,Economy Class
+I 29 Motel,Sisseton, SD ,57262,29,NA,NA,45.66472647,-97.04977241,Economy Class
+Crow Peak Lodge,Spearfish, SD ,57783,35,NA,NA,44.49175655,-103.8637584,Economy Class
+Hampton Inn Spearfish,Spearfish, SD ,57783,60,7.9,131 reviews,44.47940725,-103.8133568,Upper Midscale Class
+Travelodge Spearfish,Spearfish, SD ,57783,40,8.2,541 reviews,44.47664513,-103.8215722,Economy Class
+Days Inn Spearfish,Spearfish, SD ,57783,50,NA,NA,44.50148014,-103.8579881,Economy Class
+Super 8 Spearfish,Spearfish, SD ,57783,60,7.7,239 reviews,44.47386533,-103.8088041,Economy Class
+Best Western Black Hills Lodge,Spearfish, SD ,57783,50,NA,NA,44.49269663,-103.8522694,Midscale Class
+Fairfield Inn & Suites Spearfish,Spearfish, SD ,57783,54,7.8,71 reviews,44.48095183,-103.8135036,Upper Midscale Class
+Quality Inn Spearfish,Spearfish, SD ,57783,40,7.5,141 reviews,44.48016332,-103.8134625,Midscale Class
+Holiday Inn Spearfish Convention Center,Spearfish, SD ,57783,145,7.7,167 reviews,44.48060255,-103.8169071,Upper Midscale Class
+Sherwood Lodge,Spearfish, SD ,57783,22,NA,NA,44.49058575,-103.8617711,Economy Class
+Baymont Inn & Suites Spearfish,Spearfish, SD ,57783,64,NA,NA,44.47517105,-103.8148277,Midscale Class
+All Star Travelers Inn,Spearfish, SD ,57783,45,NA,NA,44.49027398,-103.8658435,Economy Class
+Best Western Sturgis Inn,Sturgis, SD ,57785,55,NA,NA,44.39723658,-103.5077227,Midscale Class
+Super 8 Sturgis,Sturgis, SD ,57785,58,NA,NA,44.41847099,-103.5358766,Economy Class
+Days Inn Sturgis,Sturgis, SD ,57785,53,NA,NA,44.41712858,-103.5347921,Economy Class
+Baymont Inn & Suites Sturgis,Sturgis, SD ,57785,84,NA,NA,44.41823247,-103.5386803,Midscale Class
+Ramada Summerset Rapid City West,Summerset, SD ,57718,55,8,137 reviews,44.19877977,-103.351401,Midscale Class
+GrandStay Hotel & Suites Tea Sioux Falls,Tea, SD ,57064,50,NA,NA,43.46053955,-96.82410346,Upper Midscale Class
+Prairie Inn,Vermillion, SD ,57069,31,NA,NA,42.78924488,-96.9296448,Economy Class
+Best Western Vermillion Inn,Vermillion, SD ,57069,46,8.2,65 reviews,42.78741991,-96.94184567,Midscale Class
+Westside Inn,Vermillion, SD ,57069,18,NA,NA,NA, NA,Economy Class
+Holiday Inn Express & Suites Vermillion,Vermillion, SD ,57069,56,7.9,29 reviews,42.79295649,-96.92995283,Upper Midscale Class
+Red Roof Inn Vermillion,Vermillion, SD ,57069,39,8.2,138 reviews,42.7872172,-96.91342813,Economy Class
+Wagner Lakeside Resort,Wagner, SD ,57380,78,NA,NA,43.08256941,-98.30551875,Economy Class
+Econo Lodge Wall,Wall, SD ,57790,48,NA,NA,43.98940729,-102.2396264,Economy Class
+Americas Best Value Inn Wall,Wall, SD ,57790,44,7.4,490 reviews,43.98816864,-102.240646,Economy Class
+Days Inn Wall,Wall, SD ,57790,32,NA,NA,43.98758,-102.239938,Economy Class
+Super 8 Wall,Wall, SD ,57790,29,NA,NA,43.98994978,-102.2391441,Economy Class
+Travelodge Wall,Wall, SD ,57790,39,6.7,443 reviews,43.98723263,-102.2404208,Economy Class
+Welsh's Motel,Wall, SD ,57790,24,NA,NA,43.98842912,-102.2383608,Economy Class
+Best Western Plains Motel,Wall, SD ,57790,74,NA,NA,43.98953254,-102.2386799,Midscale Class
+Hillcrest Motel,Wall, SD ,57790,18,NA,NA,NA, NA,Economy Class
+Sunshine Inn,Wall, SD ,57790,26,NA,NA,43.99150242,-102.2414312,Economy Class
+Ann's Motel,Wall, SD ,57790,19,NA,NA,43.99467985,-102.2411824,Economy Class
+Days Inn Watertown,Watertown, SD ,57201,57,8.1,157 reviews,44.88882458,-97.06740631,Economy Class
+Dakota Sioux Casino Hotel,Watertown, SD ,57201,93,8,320 reviews,45.00394804,-97.14838471,Economy Class
+Holiday Inn Express & Suites Watertown,Watertown, SD ,57201,66,NA,NA,44.89232837,-97.0715845,Upper Midscale Class
+Drake Motor Inn,Watertown, SD ,57201,43,NA,NA,44.89124898,-97.1097915,Economy Class
+Econo Lodge Watertown,Watertown, SD ,57201,47,7,148 reviews,44.88903278,-97.09224554,Economy Class
+Country Inn & Suites Watertown,Watertown, SD ,57201,72,8.7,255 reviews,44.89193988,-97.06128003,Upper Midscale Class
+Travel Inn,Watertown, SD ,57201,29,NA,NA,44.88953728,-97.14158937,Economy Class
+Quality Inn & Suites Watertown,Watertown, SD ,57201,58,8.8,53 reviews,44.89202538,-97.05910673,Midscale Class
+Ramkota Hotel & Watertown Event Center,Watertown, SD ,57201,101,7.5,55 reviews,44.89087649,-97.14433057,Upper Midscale Class
+Hampton Inn Watertown,Watertown, SD ,57201,85,8.9,44 reviews,44.88925688,-97.070261,Upper Midscale Class
+Guest House Motel,Watertown, SD ,57201,60,NA,NA,44.90229538,-97.11476611,Economy Class
+Budget One Motel,Watertown, SD ,57201,41,NA,NA,44.89068398,-97.112242,Economy Class
+Super 8 Watertown,Watertown, SD ,57201,57,NA,NA,44.88490699,-97.10807971,Economy Class
+Boomers Outback Motel,Webster, SD ,57274,20,NA,NA,45.34185944,-97.52503762,Economy Class
+Day County Inn,Webster, SD ,57274,26,NA,NA,45.34017886,-97.53610897,Economy Class
+Tony's Motel,Whitewood, SD ,57793,25,NA,NA,44.46755882,-103.639217,Economy Class
+Iron Horse Inn,Whitewood, SD ,57793,195,NA,NA,44.46047966,-103.6300707,Economy Class
+Dakota Inn,Winner, SD ,57580,24,NA,NA,43.37315138,-99.84397254,Economy Class
+Buffalo Trail Motel,Winner, SD ,57580,31,NA,NA,NA, NA,Economy Class
+Knights Inn Winner,Winner, SD ,57580,37,NA,NA,43.37605255,-99.84576945,Economy Class
+Super 8 Winner,Winner, SD ,57580,25,7.1,41 reviews,43.37726909,-99.84248642,Economy Class
+Holiday Inn Express & Suites Winner,Winner, SD ,57580,59,NA,NA,43.37586347,-99.83722862,Upper Midscale Class
+Starlite Inn Motel,Yankton, SD ,57078,22,NA,NA,42.87247986,-97.40609563,Economy Class
+Broadway Inn,Yankton, SD ,57078,38,NA,NA,42.88276796,-97.39654173,Economy Class
+Days Inn Yankton,Yankton, SD ,57078,56,6.8,313 reviews,42.89753324,-97.39669913,Economy Class
+Best Western Kelly Inn,Yankton, SD ,57078,121,8,115 reviews,42.87817353,-97.36495233,Midscale Class
+Travelodge Yankton,Yankton, SD ,57078,58,NA,NA,42.87749864,-97.36643731,Economy Class
+Holiday Inn Express & Suites Yankton,Yankton, SD ,57078,58,8.9,86 reviews,42.90102912,-97.39850332,Upper Midscale Class
+Lewis & Clark Resort,Yankton, SD ,57078,41,NA,NA,42.8733809,-97.49723377,Midscale Class
+Econo Lodge Yankton,Yankton, SD ,57078,59,NA,NA,42.89400636,-97.4018911,Economy Class
